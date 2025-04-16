@@ -33,6 +33,7 @@
 //     // if (modelIDRef.current !== null) {
 //     //   viewerRef.current.IFC.loader.ifcManager.removeModel(modelIDRef.current);
 //     //   modelIDRef.current = null;
+//hello
 //     // }
   
 //     // try {
